@@ -1,0 +1,15 @@
+{
+  "name": "ok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rander.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"boomlion\"",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "mime": "^2.4.0"
+  }
+}
